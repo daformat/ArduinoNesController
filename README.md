@@ -4,8 +4,8 @@ ArduinoNesController
 A simple way to read data from a NES controller with an Arduino
 
 Mathieu Jouhet (@daformat)
-http://digitalcuisine.fr
-http://mathieujouhet.com
+ http://digitalcuisine.fr
+ http://mathieujouhet.com
 
 Inspired by Big Oil
 http://forum.arduino.cc/index.php/topic,8481.0.html
@@ -27,5 +27,5 @@ The example sketch uses the following pins:
 		int clock = 3; // set the clock pin
 		int datin = 4; // set the serial out pin
  ```
- 
+
 Don't forget to hook the controller the the +5V and ground pins as well...
